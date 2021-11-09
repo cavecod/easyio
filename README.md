@@ -5,10 +5,11 @@ make easy to use io on clojure, wrap java.io.File and other
 ## Installation
 
 Leiningen/Boot
-[org.clojars.cavecod/easyio "0.1.5-SNAPSHOT"]
+
+  [org.clojars.cavecod/easyio "0.1.5-SNAPSHOT"]
 
 ## Documentation
-* [API Doc] (https://cljdoc.org/versions/org.clojars.cavecod/easyio)
+* [API Doc](https://cljdoc.org/versions/org.clojars.cavecod/easyio)
 
 ## Examples
 ```clojure
@@ -163,5 +164,6 @@ Leiningen/Boot
 Copyright © 2021 by cavecod
 
 Distributed under the GPL3 License.
+
 https://www.gnu.org/licenses/gpl-3.0.txt
             
